@@ -236,6 +236,7 @@ DOMAIN-SUFFIX,zhimg.com,DIRECT
 DOMAIN-SUFFIX,zhuihd.com,DIRECT
 DOMAIN-SUFFIX,hostloc.com,DIRECT
 DOMAIN-SUFFIX,moeclub.org,DIRECT
+DOMAIN-SUFFIX,vmware.com,DIRECT
 DOMAIN,download.jetbrains.com,DIRECT
 
 # GeoIP China
