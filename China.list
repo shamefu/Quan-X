@@ -241,3 +241,5 @@ DOMAIN,download.jetbrains.com,DIRECT
 
 # GeoIP China
 GEOIP,CN,DIRECT
+
+OK
